@@ -1,2 +1,2 @@
-# pofolio
-All index files are stored in the folder called 'Public'
+# porfolio
+All HTML files are stored in the folder called 'Public'
